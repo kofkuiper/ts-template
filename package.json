@@ -1,0 +1,16 @@
+{
+  "name": "ts-template",
+  "version": "1.0.0",
+  "description": "TypeScript Project Template with ts-node package",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "kofkuiper",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "ts-node": "^10.9.2"
+  }
+}
